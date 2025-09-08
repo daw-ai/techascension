@@ -944,3 +944,24 @@ body {
     object-fit: cover;
 }
 
+
+/* Logo link styles */
+.logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.logo-link:hover {
+    text-decoration: none;
+}
+
+.logo-link:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+.logo-link:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
