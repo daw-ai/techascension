@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: 'Test Tiempos Text Regular', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     line-height: 1.7;
     color: #1f2937;
     background-color: #f9fafb;
@@ -197,6 +197,7 @@ body {
 }
 
 .hero-headline {
+    font-family: 'Test Tiempos Headline Bold';
     font-size: 64px;
     font-weight: 800;
     color: #1f2937;
@@ -366,6 +367,7 @@ body {
 }
 
 .section-title {
+    font-family: 'Test Tiempos Headline Bold';
     font-size: 48px;
     font-weight: 800;
     color: #1f2937;
@@ -409,6 +411,7 @@ body {
 }
 
 .content-card h3 {
+    font-family: 'Test Tiempos Headline Bold';
     font-size: 20px;
     font-weight: 700;
     color: #1f2937;
@@ -964,4 +967,232 @@ body {
     color: inherit;
     text-decoration: none;
 }
+
+
+
+
+@font-face {
+    font-family: 'Test Tiempos Fine Black';
+    src: url('assets/fonts/TestTiemposFine-Black-BF66457a508fe8f.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Black Italic';
+    src: url('assets/fonts/TestTiemposFine-BlackItalic-BF66457a510424a.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Bold';
+    src: url('assets/fonts/TestTiemposFine-Bold-BF66457a510211b.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Bold Italic';
+    src: url('assets/fonts/TestTiemposFine-BoldItalic-BF66457a50b8568.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Light';
+    src: url('assets/fonts/TestTiemposFine-Light-BF66457a5102792.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Light Italic';
+    src: url('assets/fonts/TestTiemposFine-LightItalic-BF66457a50eb132.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Medium';
+    src: url('assets/fonts/TestTiemposFine-Medium-BF66457a50e62cd.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Medium Italic';
+    src: url('assets/fonts/TestTiemposFine-MediumItalic-BF66457a511be83.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Regular';
+    src: url('assets/fonts/TestTiemposFine-Regular-BF66457a50e8bc9.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Regular Italic';
+    src: url('assets/fonts/TestTiemposFine-RegularItalic-BF66457a50e36f9.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Semibold';
+    src: url('assets/fonts/TestTiemposFine-Semibold-BF66457a50f016a.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Fine Semibold Italic';
+    src: url('assets/fonts/TestTiemposFine-SemiboldItalic-BF66457a50b0e18.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Black';
+    src: url('assets/fonts/TestTiemposHeadline-Black-BF66457a50e385b.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Black Italic';
+    src: url('assets/fonts/TestTiemposHeadline-BlackItalic-BF66457a505495d.woff2') format('woff2');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Bold';
+    src: url('assets/fonts/TestTiemposHeadline-Bold-BF66457a5113d17.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Bold Italic';
+    src: url('assets/fonts/TestTiemposHeadline-BoldItalic-BF66457a5072af7.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Light';
+    src: url('assets/fonts/TestTiemposHeadline-Light-BF66457a50df5a0.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Light Italic';
+    src: url('assets/fonts/TestTiemposHeadline-LightItalic-BF66457a5088153.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Medium';
+    src: url('assets/fonts/TestTiemposHeadline-Medium-BF66457a509b4ec.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Medium Italic';
+    src: url('assets/fonts/TestTiemposHeadline-MediumItalic-BF66457a50b4260.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Regular';
+    src: url('assets/fonts/TestTiemposHeadline-Regular-BF66457a508e31a.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Regular Italic';
+    src: url('assets/fonts/TestTiemposHeadline-RegularItalic-BF66457a5091d70.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Semibold';
+    src: url('assets/fonts/TestTiemposHeadline-Semibold-BF66457a509040b.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Headline Semibold Italic';
+    src: url('assets/fonts/TestTiemposHeadline-SemiboldItalic-BF66457a510c462.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Bold';
+    src: url('assets/fonts/TestTiemposText-Bold-BF66457a4f03c40.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Bold Italic';
+    src: url('assets/fonts/TestTiemposText-BoldItalic-BF66457a50155b4.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Medium';
+    src: url('assets/fonts/TestTiemposText-Medium-BF66457a508489a.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Medium Italic';
+    src: url('assets/fonts/TestTiemposText-MediumItalic-BF66457a508d6d9.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Regular';
+    src: url('assets/fonts/TestTiemposText-Regular-BF66457a50cd521.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Regular Italic';
+    src: url('assets/fonts/TestTiemposText-RegularItalic-BF66457a50421c2.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Semibold';
+    src: url('assets/fonts/TestTiemposText-Semibold-BF66457a4fed201.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Test Tiempos Text Semibold Italic';
+    src: url('assets/fonts/TestTiemposText-SemiboldItalic-BF66457a505477c.woff2') format('woff2');
+    font-weight: 600;
+    font-style: italic;
+}
+
 
